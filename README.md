@@ -28,8 +28,4 @@ Browse through the list of notebooks, select one, and follow the instructions wi
 ## Contributing
 Contributions to this repository are welcome. Please fork the repository and submit a pull request with your additions or open an issue with any suggestions or feedback.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Contact
-For any further queries, please reach out via [your-email@example.com].
