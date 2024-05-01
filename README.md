@@ -1,2 +1,35 @@
-# Web-Scraping
-This repository contains a collection of projects and experiments focused on unsupervised learning algorithms, showcasing techniques like hierarchical clustering, k-means, DBSCAN, PCA and more . Each project is designed to explore different datasets and uncover underlying patterns without the guidance of labeled data. 
+# Web Scraping Notebooks Repository
+
+## Description
+This repository contains a collection of Jupyter notebooks demonstrating various web scraping techniques. 
+
+## Features
+- **Basic Scraping Techniques:** Learn the fundamentals of web scraping.
+- **Practical Examples:** Each notebook includes real-world examples to apply your skills.
+
+
+## Installation
+Clone this repository to your local machine using the following command:
+```
+git clone URL_OF_YOUR_REPOSITORY
+```
+Navigate to the cloned directory and install the required Python packages:
+```
+pip install -r requirements.txt
+```
+
+## Usage
+Open the Jupyter Notebook environment in your installation directory:
+```
+jupyter notebook
+```
+Browse through the list of notebooks, select one, and follow the instructions within each notebook to perform web scraping.
+
+## Contributing
+Contributions to this repository are welcome. Please fork the repository and submit a pull request with your additions or open an issue with any suggestions or feedback.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Contact
+For any further queries, please reach out via [your-email@example.com].
